@@ -1,0 +1,11 @@
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/bin/Debug/net8.0/mqtt-dotnet-library.deps.json
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/bin/Debug/net8.0/mqtt-dotnet-library.dll
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/bin/Debug/net8.0/mqtt-dotnet-library.pdb
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/obj/Debug/net8.0/mqtt-dotnet-library.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/obj/Debug/net8.0/mqtt-dotnet-library.AssemblyInfoInputs.cache
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/obj/Debug/net8.0/mqtt-dotnet-library.AssemblyInfo.cs
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/obj/Debug/net8.0/mqtt-dotnet-library.csproj.CoreCompileInputs.cache
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/obj/Debug/net8.0/mqtt-dotnet-library.dll
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/obj/Debug/net8.0/refint/mqtt-dotnet-library.dll
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/obj/Debug/net8.0/mqtt-dotnet-library.pdb
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-library/obj/Debug/net8.0/ref/mqtt-dotnet-library.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cTSfH8zQAONuUdFr0SnzflA3X0IKhJrEM6lxyVau1/4wJrK7xLUVZVPr3VbFBzBog8YopXQv96PAYicWTrWFWA==",
+  "success": true,
+  "projectFilePath": "/Volumes/External/www/mqtt-dotnet/mqtt-dotnet-publish/mqtt-dotnet-publish.csproj",
+  "expectedPackageFiles": [
+    "/Users/aguiar/.nuget/packages/mqttnet/4.3.3.952/mqttnet.4.3.3.952.nupkg.sha512"
+  ],
+  "logs": []
+}

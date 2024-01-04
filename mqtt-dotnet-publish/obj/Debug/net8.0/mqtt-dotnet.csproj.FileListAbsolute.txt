@@ -1,0 +1,17 @@
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/bin/Debug/net8.0/mqtt-dotnet
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/bin/Debug/net8.0/mqtt-dotnet.deps.json
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/bin/Debug/net8.0/mqtt-dotnet.runtimeconfig.json
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/bin/Debug/net8.0/mqtt-dotnet.dll
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/bin/Debug/net8.0/mqtt-dotnet.pdb
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/bin/Debug/net8.0/MQTTnet.dll
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/mqtt-dotnet.csproj.AssemblyReference.cache
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/mqtt-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/mqtt-dotnet.AssemblyInfoInputs.cache
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/mqtt-dotnet.AssemblyInfo.cs
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/mqtt-dotnet.csproj.CoreCompileInputs.cache
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/mqtt-dotnet.csproj.CopyComplete
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/mqtt-dotnet.dll
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/refint/mqtt-dotnet.dll
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/mqtt-dotnet.pdb
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/mqtt-dotnet.genruntimeconfig.cache
+/Volumes/External/www/mqtt-dotnet/mqtt-dotnet/obj/Debug/net8.0/ref/mqtt-dotnet.dll
